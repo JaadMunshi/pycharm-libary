@@ -1,0 +1,11 @@
+BorrowerID,Name,Address,PhoneNumber,Email,MembershipDate
+201,John Doe,123 Elm Street,555-1234,johndoe@example.com,15/05/2020
+202,Jane Smith,456 Maple Avenue,555-5678,janesmith@example.com,22/01/2021
+203,Michael Brown,789 Oak Drive,555-9101,michaelb@example.com,08/11/2020
+204,Emily White,321 Pine Lane,555-1123,emilywhite@example.com,03/03/2022
+205,David Johnson,654 Cedar Road,555-1314,davidj@example.com,19/07/2020
+206,Sarah Miller,987 Birch Way,555-1415,sarahm@example.com,12/09/2021
+207,Chris Green,213 Walnut Street,555-1516,chrisg@example.com,25/06/2022
+208,Anna Blue,890 Willow Court,555-1617,annab@example.com,15/02/2023
+209,Liam Gray,678 Fir Trail,555-1718,liamg@example.com,04/10/2020
+210,Olivia Black,432 Aspen Circle,555-1819,oliviab@example.com,20/12/2021

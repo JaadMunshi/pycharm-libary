@@ -1,0 +1,11 @@
+UserID,Name,Role,Email,PhoneNumber,HireDate,Password,Status
+301,Alice Johnson,Supervisor,alice.johnson@example.com,555-2001,15/06/2018,ali01,active
+302,Robert Smith,Librarian,robert.smith@example.com,555-2002,21/09/2020,rob02,blocked
+303,Jessica Brown,Supervisor,jessica.brown@example.com,555-2003,05/12/2017,jes03,active
+304,Daniel Green,Librarian,daniel.green@example.com,555-2004,11/04/2021,dan04,active
+305,Emily White,Supervisor,emily.white@example.com,555-2005,19/03/2019,emi05,blocked
+306,Matthew Davis,Librarian,matthew.davis@example.com,555-2006,10/01/2022,mat06,active
+307,Sophia Wilson,Supervisor,sophia.wilson@example.com,555-2007,24/08/2016,sop07,active
+308,James Miller,Librarian,james.miller@example.com,555-2008,30/05/2020,jam08,inactive
+309,Charlotte Brown,Supervisor,charlotte.brown@example.com,555-2009,12/11/2015,cha09,inactive
+310,Lucas Moore,Librarian,lucas.moore@example.com,555-2010,20/02/2023,luc10,active

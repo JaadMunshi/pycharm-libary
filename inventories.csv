@@ -1,0 +1,13 @@
+BookID,Title,Author,Genre,PublishedYear,TotalCopies,CopiesAvailable,OnLoan,Deleted
+101,The Great Gatsby,F. Scott Fitzgerald,Classic,1925,4,3,1,1
+102,To Kill a Mockingbird,Harper Lee,Fiction,1960,7,4,3,0
+103,1984,George Orwell,Science Fiction,1949,5,1,4,0
+104,Pride and Prejudice,Jane Austen,Romance,1813,6,4,2,1
+105,The Catcher in the Rye,J.D. Salinger,Fiction,1951,4,3,1,0
+106,The Hobbit,J.R.R. Tolkien,Fantasy,1937,7,6,1,0
+107,The Road,Cormac McCarthy,Dystopian,2006,3,2,1,0
+108,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,1997,9,8,1,2
+109,The Alchemist,Paulo Coelho,Fiction,1988,9,7,2,1
+110,Becoming,Michelle Obama,Biography,2018,5,4,1,0
+202,hello,jaad,classic,2006,7,7,0,0
+207,hi,jaad munshi,horror,1999,8,9,0,0
